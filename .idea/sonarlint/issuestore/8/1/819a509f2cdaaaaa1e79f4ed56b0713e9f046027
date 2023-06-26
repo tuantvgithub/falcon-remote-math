@@ -1,0 +1,8 @@
+
+j
+java:S2095""MUse try-with-resources or close this "DataInputStream" in a "finally" clause.(í¢Üó8£îÃš1
+J	java:S108")Either remove or fill this block of code.(ğÂ˜•ùÿÿÿÿ8£ãòš1
+e
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Úæİ­8Ãš1
+F
+java:S1197 "*Move the array designators [] to the type.(¬Ö¿I8 Ãš1
